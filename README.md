@@ -4,7 +4,7 @@
 
 This project is part of the **Web Dev Basics** module of [**Scrimba**'s](https://v2.scrimba.com/home) [**Frontend Career Path**](https://v2.scrimba.com/the-frontend-developer-career-path-c0j) programme.
 
-Guided by the intructor, we built a basic ***clone of Google's homepage***, focusing on basic web design and layout techniques.
+Guided by the instructor, we built a basic ***clone of Google's homepage***, focusing on basic web design and layout techniques.
 
 ## Screenshot 📷
 
