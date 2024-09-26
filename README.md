@@ -8,13 +8,13 @@ Guided by the instructor, we built a basic ***clone of Google's homepage***, foc
 
 ## Screenshot 📷
 
-![Google Clone](./google-clone.png)
+![Google Clone](./google-clone-screenshot.avif)
 
 ## Links 🔗
 
-[Scrim](https://v2.scrimba.com/s015itui0i) 👀
+[Scrim code](https://v2.scrimba.com/s015itui0i) 👀
 
-[Demo](https://mendezpvi.github.io/fcp-google-clone/) 👀
+[Live site](https://mendezpvi.github.io/fcp-google-clone/) 👀
 
 ## What I learned 🤓
 
